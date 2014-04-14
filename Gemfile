@@ -19,5 +19,5 @@ group :production do
 end
 
 group :doc do 
-		gem 'sdoc', require: false 
+	gem 'sdoc', require: false 
 end 
